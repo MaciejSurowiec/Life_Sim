@@ -1,0 +1,60 @@
+﻿  Organizm.cpp
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.h(13,13): error C2143: syntax error: missing ';' before '*'
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.h(13,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.h(13,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.h(10,1): error C2011: 'Swiat': 'class' type redefinition
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.h(9): message : see declaration of 'Swiat'
+C:\Users\suruw\source\repos\Zycie\Zycie\Organizm.h(9,1): error C2011: 'Organizm': 'class' type redefinition
+C:\Users\suruw\source\repos\Zycie\Zycie\Organizm.h(8): message : see declaration of 'Organizm'
+C:\Users\suruw\source\repos\Zycie\Zycie\Organizm.cpp(4,12): error C2027: use of undefined type 'Organizm'
+C:\Users\suruw\source\repos\Zycie\Zycie\Organizm.h(8): message : see declaration of 'Organizm'
+C:\Users\suruw\source\repos\Zycie\Zycie\Organizm.cpp(5,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\suruw\source\repos\Zycie\Zycie\Organizm.cpp(7,1): warning C4508: '{dtor}': function should return a value; 'void' return type assumed
+C:\Users\suruw\source\repos\Zycie\Zycie\Organizm.cpp(9,11): error C2027: use of undefined type 'Organizm'
+C:\Users\suruw\source\repos\Zycie\Zycie\Organizm.h(8): message : see declaration of 'Organizm'
+C:\Users\suruw\source\repos\Zycie\Zycie\Organizm.cpp(10,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\suruw\source\repos\Zycie\Zycie\Organizm.cpp(11,1): error C2550: '{ctor}': constructor initializer lists are only allowed on constructor definitions
+C:\Users\suruw\source\repos\Zycie\Zycie\Organizm.cpp(13,1): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+C:\Users\suruw\source\repos\Zycie\Zycie\Organizm.cpp(15,11): error C2027: use of undefined type 'Organizm'
+C:\Users\suruw\source\repos\Zycie\Zycie\Organizm.h(8): message : see declaration of 'Organizm'
+C:\Users\suruw\source\repos\Zycie\Zycie\Organizm.cpp(16,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\suruw\source\repos\Zycie\Zycie\Organizm.cpp(17,1): error C2550: '{ctor}': constructor initializer lists are only allowed on constructor definitions
+C:\Users\suruw\source\repos\Zycie\Zycie\Organizm.cpp(19,1): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+C:\Users\suruw\source\repos\Zycie\Zycie\Organizm.cpp(22,16): error C2027: use of undefined type 'Organizm'
+C:\Users\suruw\source\repos\Zycie\Zycie\Organizm.h(8): message : see declaration of 'Organizm'
+C:\Users\suruw\source\repos\Zycie\Zycie\Organizm.cpp(24,6): error C2065: 'avatar': undeclared identifier
+  Swiat.cpp
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.h(13,13): error C2143: syntax error: missing ';' before '*'
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.h(13,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.h(13,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.h(10,1): error C2011: 'Swiat': 'class' type redefinition
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.h(9): message : see declaration of 'Swiat'
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.cpp(3,8): error C2027: use of undefined type 'Swiat'
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.h(9): message : see declaration of 'Swiat'
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.cpp(4,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.cpp(5,1): error C2550: '{ctor}': constructor initializer lists are only allowed on constructor definitions
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.cpp(6,1): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.cpp(8,8): error C2027: use of undefined type 'Swiat'
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.h(9): message : see declaration of 'Swiat'
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.cpp(9,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.cpp(10,1): error C2550: '{ctor}': constructor initializer lists are only allowed on constructor definitions
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.cpp(11,2): error C2065: 'map': undeclared identifier
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.cpp(11,24): error C2065: 'rozmiar': undeclared identifier
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.cpp(11,34): error C3078: array size must be specified in new expressions
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.cpp(13,17): error C2065: 'rozmiar': undeclared identifier
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.cpp(15,3): error C2065: 'map': undeclared identifier
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.cpp(15,25): error C2065: 'rozmiar': undeclared identifier
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.cpp(15,35): error C3078: array size must be specified in new expressions
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.cpp(17,1): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+  Wilk.cpp
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.h(13,13): error C2143: syntax error: missing ';' before '*'
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.h(13,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.h(13,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\suruw\source\repos\Zycie\Zycie\Wilk.cpp(8,11): warning C4309: '=': truncation of constant value
+  Zwierze.cpp
+C:\Users\suruw\source\repos\Zycie\Zycie\Wilk.h(4,1): error C2504: 'Zwierze': base class undefined
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.h(13,13): error C2143: syntax error: missing ';' before '*'
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.h(13,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\suruw\source\repos\Zycie\Zycie\Swiat.h(13,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\suruw\source\repos\Zycie\Zycie\Zwierze.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
